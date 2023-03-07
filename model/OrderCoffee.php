@@ -319,11 +319,3 @@ class OrderCoffee
 
     // ฟังชั่นแสดงข้อมูลการสั่งซื้อรายบุคคล
 }
-
-// push this folder to github
-// git init
-// git add .
-// git commit -m "first commit"
-// git branch -M main
-// git remote add origin
-// git push -u origin main
